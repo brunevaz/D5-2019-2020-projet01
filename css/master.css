@@ -1,0 +1,49 @@
+html, body {
+font-size: 10px;
+margin-left: 5vw;
+margin-right: 5vw;
+margin-top: 2vw;
+}
+
+p{
+text-align: justify;
+}
+
+
+/*image*/
+
+.premiere{
+  width: 100%;
+  height: 100%;
+  overflow:hidden; /*hide bounds of image */
+  margin:0;
+  display:block; /*remove inline-block spaces*/
+}
+
+.tea{
+max-width: 2px;
+  max-height: 5px;
+}
+
+
+
+/*paragraphe*/
+
+.box{
+  width: 58%;
+  height: 90%;
+  margin-left: 0vw;
+}
+
+.box2{
+  width: 80%;
+  height: 90%;
+  margin-left: 0vw;
+}
+
+/*paralax*/
+
+.groupedessus{
+
+  z-index: 200;
+}

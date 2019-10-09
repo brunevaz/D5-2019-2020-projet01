@@ -1,0 +1,31 @@
+
+h1 {
+margin-bottom: 3rem;
+font-family: Anton;
+font-size: 6.103515625em;
+line-height: 9rem;
+font-weight: 400;
+font-style: normal;
+letter-spacing: 0em;
+}
+
+h2 {
+margin-bottom: 3rem;
+font-family: Abril Fatface;
+font-size: 3em;
+line-height: 105%;
+font-weight: 400;
+font-style: normal;
+letter-spacing: 0em;
+}
+
+
+p {
+margin-bottom: 3rem;
+font-family: Lora;
+font-size: 1.6em;
+line-height: 3rem;
+font-weight: 400;
+font-style: normal;
+letter-spacing: 0em;
+}
